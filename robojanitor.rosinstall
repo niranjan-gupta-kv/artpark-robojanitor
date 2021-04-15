@@ -3,10 +3,10 @@
     uri: https://github.com/artparkindia/artpark-robojanitor.git
     version: main
 - git:
-    local-name: kinova-ros
+    local-name: robojanitor_source_deps/kinova-ros
     uri: https://github.com/Kinovarobotics/kinova-ros.git
     version: master
 - git:
-    local-name: volta
+    local-name: robojanitor_source_deps/volta
     uri: https://github.com/botsync/volta.git
     version: melodic-devel
